@@ -1,6 +1,6 @@
 ### Hi👋🏻
 
-Hi there, I'm Mati a developer from Argentina, currently living in Buenos aires and studying computer engineering at University of Buenos Aires. I'm a creative person and passionate about programming and tech, I always try to learn something new everyday. My main goal is to become Fullstack Web Dev.
+Hi there, I'm Mati a computer engineering student, currently living in Buenos aires and studying at University of Buenos Aires. I'm a creative person and passionate about programming and tech, I always try to learn something new everyday.
 
 Feel free to check my repos and tell me what you think about them!
 
@@ -8,8 +8,9 @@ Feel free to check my repos and tell me what you think about them!
 
 - Python
 - C
-- Javascript
+- HTML, CSS & Javascript
+- React & NextJS
 - Java
-- Smalltalk
-- React
-- HTML & CSS
+- ExpressJS
+- MySQL (postgres)
+- Firebase
