@@ -12,5 +12,5 @@ Feel free to check my repos and tell me what you think about them!
 - React & NextJS
 - Java
 - ExpressJS
-- MySQL (postgres)
+- PostgreSQL
 - Firebase
